@@ -1,0 +1,6 @@
+/**
+ * Library
+ */
+public class Library {
+
+}
